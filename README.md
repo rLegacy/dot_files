@@ -1,5 +1,9 @@
-symlink folders i.e.:
+install stow:
 ```
-ln -s SOURCE_PATH TARGET_PATH
+sudo pacman -S stow
+```
+then symlink directories i.e:
+```
+stow --target=/home/rlegacy/ kitty
 ```
 
