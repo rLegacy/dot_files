@@ -1,0 +1,6 @@
+#reference "../../shaders/shaders_slang/sonkun/aperture-grille/flat-screen/1080p/14-1080p-crt-guest-advanced-hd-aperture-grille-u-cool-s-video.slangp"
+g_sat = "0.300000"
+wlr = "0.500000"
+wlg = "0.700000"
+wlb = "0.500000"
+mask_layout = "1.000000"
