@@ -1,0 +1,5 @@
+# Rule for Intel Integrated GPU
+KERNEL=="card*", SUBSYSTEM=="drm", ATTRS{vendor}=="0x8086", ATTRS{device}=="0x9bc4", SYMLINK+="dri/igpu"
+
+# Rule for NVIDIA Discrete GPU
+KERNEL=="card*", SUBSYSTEM=="drm", ATTRS{vendor}=="0x10de", ATTRS{device}=="0x1ed3", SYMLINK+="dri/dgpu"
