@@ -1,0 +1,18 @@
+resize_algorithm = none
+hotspot_x = 0.58
+hotspot_y = 0.58
+
+define_size = 12, all-scroll_000.png, 50
+define_size = 18, all-scroll_001.png, 50
+define_size = 24, all-scroll_002.png, 50
+define_size = 30, all-scroll_003.png, 50
+define_size = 36, all-scroll_004.png, 50
+define_size = 42, all-scroll_005.png, 50
+define_size = 48, all-scroll_006.png, 50
+define_size = 54, all-scroll_007.png, 50
+define_size = 60, all-scroll_008.png, 50
+define_size = 66, all-scroll_009.png, 50
+define_size = 72, all-scroll_010.png, 50
+
+define_override = fleur
+define_override = size_all

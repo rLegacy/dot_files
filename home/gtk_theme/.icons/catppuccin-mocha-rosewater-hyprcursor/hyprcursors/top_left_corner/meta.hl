@@ -1,0 +1,17 @@
+resize_algorithm = none
+hotspot_x = 0.25
+hotspot_y = 0.25
+
+define_size = 12, top_left_corner_000.png, 50
+define_size = 18, top_left_corner_001.png, 50
+define_size = 24, top_left_corner_002.png, 50
+define_size = 30, top_left_corner_003.png, 50
+define_size = 36, top_left_corner_004.png, 50
+define_size = 42, top_left_corner_005.png, 50
+define_size = 48, top_left_corner_006.png, 50
+define_size = 54, top_left_corner_007.png, 50
+define_size = 60, top_left_corner_008.png, 50
+define_size = 66, top_left_corner_009.png, 50
+define_size = 72, top_left_corner_010.png, 50
+
+define_override = ul_angle

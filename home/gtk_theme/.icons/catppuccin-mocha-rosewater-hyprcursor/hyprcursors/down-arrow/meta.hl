@@ -1,0 +1,16 @@
+resize_algorithm = none
+hotspot_x = 0.58
+hotspot_y = 1.00
+
+define_size = 12, down-arrow_000.png, 50
+define_size = 18, down-arrow_001.png, 50
+define_size = 24, down-arrow_002.png, 50
+define_size = 30, down-arrow_003.png, 50
+define_size = 36, down-arrow_004.png, 50
+define_size = 42, down-arrow_005.png, 50
+define_size = 48, down-arrow_006.png, 50
+define_size = 54, down-arrow_007.png, 50
+define_size = 60, down-arrow_008.png, 50
+define_size = 66, down-arrow_009.png, 50
+define_size = 72, down-arrow_010.png, 50
+
