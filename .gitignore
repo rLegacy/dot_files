@@ -1,5 +1,5 @@
-/retroarch/.config/retroarch/saves/*
-/retroarch/.config/retroarch/states/*
-/retroarch/.config/retroarch/downloads/*
-/retroarch/.config/retroarch/playlists/*
+/home/retroarch/.config/retroarch/saves/*
+/home/retroarch/.config/retroarch/states/*
+/home/retroarch/.config/retroarch/downloads/*
+/home/retroarch/.config/retroarch/playlists/*
 
