@@ -443,5 +443,6 @@
   "bar.clock.format": "%a %b %d  %H:%M:%S %p",
   "theme.bar.buttons.windowtitle.enableBorder": false,
   "bar.windowtitle.custom_title": true,
-  "theme.bar.buttons.modules.power.enableBorder": false
+  "theme.bar.buttons.modules.power.enableBorder": false,
+  "menus.dashboard.powermenu.avatar.image": "/home/rlegacy/Pictures/Disgaea_3_Prinny_avatar.webp"
 }
