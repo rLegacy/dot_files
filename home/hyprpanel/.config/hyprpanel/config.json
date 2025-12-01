@@ -445,5 +445,13 @@
   "bar.windowtitle.custom_title": true,
   "theme.bar.buttons.modules.power.enableBorder": false,
   "menus.dashboard.powermenu.avatar.image": "/home/rlegacy/Pictures/Disgaea_3_Prinny_avatar.webp",
-  "theme.bar.buttons.systray.enableBorder": false
+  "theme.bar.buttons.systray.enableBorder": false,
+  "bar.windowtitle.class_name": false,
+  "bar.windowtitle.title_map": [
+    [
+      "ffpwa-[a-z0-9]+",
+      "󰊻",
+      "MS-Teams"
+    ]
+  ]
 }

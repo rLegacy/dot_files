@@ -11,5 +11,9 @@ PS1='[\u@\h \W]\$ '
 export EDITOR='nvim'
 # Aliases
 alias wclone='git clone -c "core.sshCommand=ssh -i ~/.ssh/work -F /dev/null"'
+alias v='uv run nvim'
 # Prompt
 eval "$(starship init bash)"
+
+# uv
+export PATH="/home/rlegacy/.local/bin:$PATH"
