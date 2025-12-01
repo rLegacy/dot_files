@@ -404,6 +404,19 @@
   "bar.notifications.hideCountWhenZero": true,
   "bar.workspaces.ignored": "-98",
   "bar.layouts": {
+    "1": {
+      "left": [
+        "workspaces",
+        "hypridle"
+      ],
+      "middle": [
+        "windowtitle"
+      ],
+      "right": [
+        "clock",
+        "notifications"
+      ]
+    },
     "*": {
       "left": [
         "dashboard",
