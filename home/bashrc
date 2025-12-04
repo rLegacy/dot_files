@@ -12,6 +12,7 @@ export EDITOR='nvim'
 # Aliases
 alias wclone='git clone -c "core.sshCommand=ssh -i ~/.ssh/work -F /dev/null"'
 alias v='uv run nvim'
+alias python='uv run python'
 # Prompt
 eval "$(starship init bash)"
 
