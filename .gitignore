@@ -6,4 +6,7 @@
 /home/retroarch/.config/retroarch/cores/*
 /home/retroarch/.config/retroarch/database/*
 /home/retroarch/.config/retroarch/assets/*
-
+/home/retroarch/.config/retroarch/content_*
+/home/retroarch/.config/retroarch/overlay/*
+/home/retroarch/.config/retroarch/overlays/*
+/home/retroarch/.config/retroarch/filters/*
