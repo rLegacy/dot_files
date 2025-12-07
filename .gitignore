@@ -4,4 +4,6 @@
 /home/retroarch/.config/retroarch/playlists/*
 /home/retroarch/.config/retroarch/cheats/*
 /home/retroarch/.config/retroarch/cores/*
+/home/retroarch/.config/retroarch/database/*
+/home/retroarch/.config/retroarch/assets/*
 
