@@ -1,14 +1,1 @@
-/retroarch/.config/retroarch/saves/*
-/retroarch/.config/retroarch/states/*
-/retroarch/.config/retroarch/downloads/*
-/retroarch/.config/retroarch/playlists/*
-/retroarch/.config/retroarch/cheats/*
-/retroarch/.config/retroarch/cores/*
-/retroarch/.config/retroarch/database/*
-/retroarch/.config/retroarch/assets/*
-/retroarch/.config/retroarch/content_*
-/retroarch/.config/retroarch/overlay/*
-/retroarch/.config/retroarch/overlays/*
-/retroarch/.config/retroarch/filters/*
-/retroarch/.config/retroarch/autoconfigs/*
 
