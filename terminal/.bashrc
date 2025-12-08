@@ -18,4 +18,3 @@ eval "$(starship init bash)"
 # Aliases
 alias wclone='git clone -c "core.sshCommand=ssh -i ~/.ssh/work -F /dev/null"'
 alias python='uv run python'
-alias v='uv run nvim'
