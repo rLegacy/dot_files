@@ -10,6 +10,7 @@ export EDITOR='nvim'
 
 ## uv
 export PATH="/home/rlegacy/.local/bin:$PATH"
+export DEVPOD_SKIP_CHOWN="true"
 
 ## Prompt
 eval "$(starship init bash)"
