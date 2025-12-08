@@ -12,7 +12,7 @@ return {
                 markdown = { "prettier" },
                 css = { "prettier" },
                 scss = { "prettier" },
-                python = { "ruff" },
+                python = { "ruff_lsp" },
                 lua = {
                     "stylelua",
                     args = {
