@@ -9,7 +9,7 @@ return {
                 typescript = { "prettier" },
                 javascript = { "prettier" },
                 yaml = { "prettier" },
-                markdown = { "prettier" },
+                markdown = {},
                 css = { "prettier" },
                 scss = { "prettier" },
                 python = { "ruff_lsp" },
