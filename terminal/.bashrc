@@ -1,5 +1,8 @@
 # ~/.bashrc
-# If not running interactively, don't do anything
+if [ -f ~/.bash_secret_keys ]; then
+    source ~/.bash_secret_keys
+fi
+
 [[ $- != *i* ]] && return
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'

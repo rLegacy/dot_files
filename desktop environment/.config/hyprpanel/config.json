@@ -406,15 +406,13 @@
   "bar.layouts": {
     "1": {
       "left": [
-        "workspaces",
-        "hypridle"
+        "workspaces"
       ],
       "middle": [
         "windowtitle"
       ],
       "right": [
-        "clock",
-        "notifications"
+        "clock"
       ]
     },
     "*": {
@@ -441,7 +439,7 @@
   "bar.media.show_active_only": true,
   "menus.dashboard.powermenu.confirmation": true,
   "menus.dashboard.directories.enabled": false,
-  "menus.dashboard.stats.enable_gpu": false,
+  "menus.dashboard.stats.enable_gpu": true,
   "theme.bar.outer_spacing": "0.4em",
   "notifications.ignore": [
     "kitty"
@@ -468,7 +466,7 @@
       "MS-Teams"
     ]
   ],
-  "menus.dashboard.stats.enabled": false,
+  "menus.dashboard.stats.enabled": true,
   "menus.dashboard.shortcuts.left.shortcut2.icon": "",
   "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Firefox",
   "menus.dashboard.shortcuts.left.shortcut1.command": "firefox",
@@ -478,9 +476,6 @@
   "bar.systray.customIcons": {
     "spotify": {
       "icon": "󰓇"
-    },
-    "chrome_status_icon_1": {
-      "icon": ""
     }
   },
   "bar.media.format": "{title: - }{artist}",
@@ -512,5 +507,6 @@
   "bar.customModules.cava.spaceCharacter": " ",
   "theme.bar.buttons.modules.cava.spacing": "0.5em",
   "bar.customModules.cava.autoSensitivity": true,
-  "bar.customModules.cava.lowCutoff": 50
+  "bar.customModules.cava.lowCutoff": 50,
+  "menus.dashboard.shortcuts.left.shortcut2.command": "spotify-launcher"
 }
