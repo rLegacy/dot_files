@@ -6,6 +6,9 @@ return {
                 pyright = {
                     mason = false,
                 },
+                basedpyright = {
+                    mason = True
+                },
             },
         },
     },
